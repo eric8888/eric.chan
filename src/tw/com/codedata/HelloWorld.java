@@ -9,7 +9,7 @@ public class HelloWorld {
  
     public static void main(String[] args) {
         logger.info("Hello World");
-        System.out.println("hello");
+        System.out.println("hello 123");
     }
  
    
