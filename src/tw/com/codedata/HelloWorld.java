@@ -1,6 +1,5 @@
-package  tw.com.codedata;
-
-
+package tw.com.codedata;
+ 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
  

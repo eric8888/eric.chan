@@ -3,9 +3,11 @@ apply plugin: 'java'
  
 /* 引用 application plugin 獲得執行 java 專案相關的 task $ */
 apply plugin:'application'
+
+apply plugin:'eclipse'
  
 /* 執行 application plugin 用到的參數 $ */
-mainClassName = "tw.com.codedata.HelloWorld"
+mainClassName = "tw.com.codedata"
  
 /* 設定 maven repository server $ */
 repositories {
